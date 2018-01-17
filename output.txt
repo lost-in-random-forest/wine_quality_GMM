@@ -1,0 +1,142 @@
+GaussianNB : 0.59375
+DecisionTreeClassifier : 0.40625
+LogisticRegression : 0.75
+====================
+2018-01-16
+GradientBoostingClassifier : 0.59375
+====================
+2018-01-17
+====================
+2018-01-17
+====================
+2018-01-17
+====================
+2018-01-17
+====================
+2018-01-17
+GaussianMixture : 0.0
+====================
+2018-01-17
+GaussianMixture : 0.40625
+====================
+2018-01-17
+GaussianMixture : 0.40625
+====================
+2018-01-17
+GaussianNB : 0.59375
+DecisionTreeClassifier : 0.40625
+LogisticRegression : 0.75
+SVC : 0.59375
+RandomForestClassifier : 0.59375
+GradientBoostingClassifier : 0.59375
+GaussianMixture : 0.40625
+====================
+2018-01-17
+GaussianNB : 0.9375
+DecisionTreeClassifier : 0.75
+LogisticRegression : 0.84375
+SVC : 0.96875
+RandomForestClassifier : 0.84375
+GradientBoostingClassifier : 0.8125
+GaussianMixture : 0.40625
+====================
+2018-01-17
+====================
+2018-01-17
+====================
+2018-01-17
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347Test = 0.9375
+DecisionTreeClassifier : Train = 1.0Test = 0.75
+LogisticRegression : Train = 0.785714285714Test = 0.84375
+SVC : Train = 0.826530612245Test = 0.96875
+RandomForestClassifier : Train = 0.979591836735Test = 0.75
+GradientBoostingClassifier : Train = 1.0Test = 0.84375
+GaussianMixture : Train = 0.428571428571Test = 0.40625
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347   Test = 0.9375
+DecisionTreeClassifier : Train = 1.0   Test = 0.71875
+LogisticRegression : Train = 0.785714285714   Test = 0.84375
+SVC : Train = 0.795918367347   Test = 0.90625
+RandomForestClassifier : Train = 0.84693877551   Test = 0.8125
+GradientBoostingClassifier : Train = 1.0   Test = 0.84375
+GaussianMixture : Train = 0.581632653061   Test = 0.59375
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347   Test = 0.9375
+DecisionTreeClassifier : Train = 1.0   Test = 0.71875
+LogisticRegression : Train = 0.785714285714   Test = 0.84375
+SVC : Train = 0.795918367347   Test = 0.90625
+RandomForestClassifier : Train = 0.816326530612   Test = 0.90625
+GradientBoostingClassifier : Train = 0.959183673469   Test = 0.84375
+GaussianMixture : Train = 0.683673469388   Test = 0.78125
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347   Test = 0.9375
+DecisionTreeClassifier : Train = 1.0   Test = 0.71875
+LogisticRegression : Train = 0.785714285714   Test = 0.84375
+SVC : Train = 0.795918367347   Test = 0.90625
+RandomForestClassifier : Train = 0.816326530612   Test = 0.875
+GradientBoostingClassifier : Train = 0.969387755102   Test = 0.84375
+GaussianMixture : Train = 0.581632653061   Test = 0.5625
+QuadraticDiscriminantAnalysis : Train = 0.836734693878   Test = 0.84375
+LDA : Train = 0.785714285714   Test = 0.84375
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347   Test = 0.9375
+DecisionTreeClassifier : Train = 1.0   Test = 0.78125
+LogisticRegression : Train = 0.785714285714   Test = 0.84375
+SVC : Train = 0.795918367347   Test = 0.90625
+RandomForestClassifier : Train = 0.826530612245   Test = 0.875
+GradientBoostingClassifier : Train = 0.928571428571   Test = 0.875
+GaussianMixture : Train = 0.142857142857   Test = 0.15625
+QuadraticDiscriminantAnalysis : Train = 0.836734693878   Test = 0.84375
+LDA : Train = 0.785714285714   Test = 0.84375
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347   Test = 0.9375
+DecisionTreeClassifier : Train = 1.0   Test = 0.78125
+LogisticRegression : Train = 0.785714285714   Test = 0.84375
+SVC : Train = 0.795918367347   Test = 0.90625
+RandomForestClassifier : Train = 0.857142857143   Test = 0.875
+GradientBoostingClassifier : Train = 0.969387755102   Test = 0.84375
+GaussianMixture : Train = 0.102040816327   Test = 0.09375
+QuadraticDiscriminantAnalysis : Train = 0.836734693878   Test = 0.84375
+LDA : Train = 0.785714285714   Test = 0.84375
+====================
+2018-01-17
+====================
+2018-01-17
+GaussianNB : Train = 0.795918367347   Test = 0.84375
+DecisionTreeClassifier : Train = 1.0   Test = 0.625
+LogisticRegression : Train = 0.785714285714   Test = 0.75
+SVC : Train = 0.795918367347   Test = 0.8125
+RandomForestClassifier : Train = 0.867346938776   Test = 0.78125
+GradientBoostingClassifier : Train = 0.969387755102   Test = 0.75
+GaussianMixture : Train = 0.0918367346939   Test = 0.0625
+QuadraticDiscriminantAnalysis : Train = 0.836734693878   Test = 0.75
+LDA : Train = 0.785714285714   Test = 0.75
+====================
+2018-01-17 09:36:50.570743
+GaussianNB : Train = 0.795918367347   Test = 0.84375
+DecisionTreeClassifier : Train = 1.0   Test = 0.75
+LogisticRegression : Train = 0.785714285714   Test = 0.75
+SVC : Train = 0.795918367347   Test = 0.8125
+RandomForestClassifier : Train = 0.80612244898   Test = 0.78125
+GradientBoostingClassifier : Train = 0.918367346939   Test = 0.71875
+GaussianMixture : Train = 0.102040816327   Test = 0.15625
+QuadraticDiscriminantAnalysis : Train = 0.836734693878   Test = 0.75
+LDA : Train = 0.785714285714   Test = 0.75
+====================
+2018-01-17 09:40:55.582099
+GaussianNB : Train = 0.795918367347   Test = 0.84375
+DecisionTreeClassifier : Train = 1.0   Test = 0.71875
+LogisticRegression : Train = 0.785714285714   Test = 0.75
+SVC : Train = 0.795918367347   Test = 0.8125
+RandomForestClassifier : Train = 0.785714285714   Test = 0.8125
+GradientBoostingClassifier : Train = 0.969387755102   Test = 0.75
+GaussianMixture : Train = 0.255102040816   Test = 0.21875
+QuadraticDiscriminantAnalysis : Train = 0.836734693878   Test = 0.75
+LDA : Train = 0.785714285714   Test = 0.75
